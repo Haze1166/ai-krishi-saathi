@@ -1,0 +1,27 @@
+Flask>=2.0
+requests>=2.25
+python-dotenv>=0.19
+
+# --- Add specific libraries as you implement placeholders ---
+# NLP/Cloud AI:
+# google-cloud-aiplatform
+# google-cloud-speech
+# google-cloud-texttospeech
+# azure-cognitiveservices-speech
+# azure-ai-language-conversations
+# boto3 (for AWS AI services)
+
+# Telephony:
+# twilio
+# exotel-py (check for official/community libraries)
+
+# ML/Data:
+# scikit-learn
+# tensorflow / torch
+# Pillow (for image processing)
+# pandas
+# numpy
+
+# Database (Example for PostgreSQL):
+# SQLAlchemy
+# psycopg2-binary
